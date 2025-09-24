@@ -1,0 +1,8 @@
+﻿{
+    "private":  true,
+    "name":  "zelyx-ai",
+    "version":  "0.1.0",
+    "scripts":  {
+                    "start":  "echo \u0027start zelyx-ai\u0027"
+                }
+}
